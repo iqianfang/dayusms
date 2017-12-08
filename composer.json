@@ -1,0 +1,29 @@
+{  
+  "name": "iqianfang/dayusms",  
+  "description": "aliyun dayu sms 阿里云大鱼短信类库",  
+  "keywords": [  
+    "aliyun",  
+    "sms"  
+  ],  
+  "homepage": "https://github.com/iqianfang/dayusms",  
+  "type": "library",  
+  "license": "Apache-2.0",  
+  "support": {  
+    "source": "https://github.com/iqianfang/dayusms"  
+  },  
+  "authors": [  
+    {  
+      "name": "iqianfang",  
+      "email": "78861190@qq.com"  
+    }  
+  ],  
+  "minimum-stability": "stable",  
+  "require": {  
+    "php": ">=5.5.0"
+  },  
+  "autoload": {  
+    "psr-4": {  
+      "Aliyun\\": ""  
+    }  
+  }
+}  
