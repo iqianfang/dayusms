@@ -1,8 +1,9 @@
-Aliyun dayu sms sdk lib composer package
-阿里云大于sms开发工具包
+Aliyun dayu sms sdk lib composer package（阿里云大鱼sms开发工具包）
+
 
 为了方便通过composer安装管理，打了个包
-===============================
+
+
 ## Installation using composer
 `composer require iqianfang/dayusms`
 
